@@ -12,9 +12,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![Clinton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClintonKode&theme=radical&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintonKode&layout=compact&theme=radical)
+GitHub Profile Trophy:  
+![trophy](https://github-profile-trophy.vercel.app/?username=ClintonKode&theme=darkhub)
+
+GitHub Streak Stats:  
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=ClintonKode&theme=radical)
 
 ---
 
