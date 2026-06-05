@@ -13,8 +13,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Clint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clint-dev&theme=radical&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clint-dev&layout=compact&theme=radical)  
+![Clint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clintonKode&theme=radical&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clintonKode&layout=compact&theme=radical)  
 
 ---
 
