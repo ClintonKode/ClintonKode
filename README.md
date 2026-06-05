@@ -28,7 +28,6 @@ That moment convinced me to pivot from law to Information Technology. Ten years 
 ---
 
 ## 📊 GitHub Highlights  
-*(Stats cards often break due to rate limits, so here are reliable alternatives)*  
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ClintonKode&theme=darkhub&margin-w=15)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClintonKode&theme=tokyonight)  
