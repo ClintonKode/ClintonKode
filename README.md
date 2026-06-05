@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Clint  
 
-<!--
-**ClintonKode/ClintonKode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend & Frontend Developer  
+⚡ Nuxt.js | 🐳 Docker | 🛒 Magento | 🎥 Content Creator  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🔗 [BranchMap Consolidation Tool](https://github.com/yourrepo)  
+- 🔗 [Nuxt IPC Debugging Guide](https://github.com/yourrepo)  
+- 🔗 [Magento Hosting Toolkit](https://github.com/yourrepo)  
+
+---
+
+## 📊 GitHub Stats
+![Clint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clint-dev&theme=radical&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clint-dev&layout=compact&theme=radical)  
+
+---
+
+## 🎨 Fun Stuff
+- 🕹️ Building creative tools with cool APIs  
+- 🎬 Exploring YouTube + short‑form video ideas  
+- 🛠️ Experimenting with 3D models & GLB assets  
+
+---
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/yourchannel)  
